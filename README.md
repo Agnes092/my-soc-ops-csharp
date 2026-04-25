@@ -1,4 +1,5 @@
-🌐 [Português (BR)](README.pt_BR.md) | [Español](README.es.md)
+Compress down by half and add a mandatory development checklist 
+(lint, build, test) to the top🌐 [Português (BR)](README.pt_BR.md) | [Español](README.es.md)
 
 # Soc Ops
 
